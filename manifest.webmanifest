@@ -1,0 +1,10 @@
+{
+  "name": "汉语 Từng Bước – Học tiếng Trung",
+  "short_name": "汉语 Từng Bước",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8f2",
+  "theme_color": "#c62828",
+  "lang": "vi",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
